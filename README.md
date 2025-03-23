@@ -12,3 +12,6 @@ This repository contains automated functional tests for a web application using 
 
 The primary goal of this testing framework is to ensure the reliability and correctness of the application's functionality by isolating and validating individual components. 
 Functional/Unit testing plays a crucial role in the software development lifecycle by identifying defects early, reducing debugging efforts, and improving overall code quality.
+
+
+<a href="https://www.java.com/en/" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/java/java-ar21.svg](https://prnt.sc/0soUd1ioxTpV)" alt="Java" width="70" height="42"/> &nbsp </a>&nbsp
