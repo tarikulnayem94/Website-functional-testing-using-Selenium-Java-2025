@@ -1,4 +1,5 @@
-<h3 align="left"><b>Automated unit & functional tests for a web application using Selenium WebDriver</h3>
+<p align="justify">
+  <h3 align="left"><b>Automated unit & functional tests for a web application using Selenium WebDriver</h3>
 March 2025 - This repository contains automated functional tests for a web application using Selenium WebDriver with Java and JUnit.
   The tests cover various UI interactions, validations, and workflows to ensure the application's reliability.
 
@@ -15,3 +16,4 @@ Functional/Unit testing plays a crucial role in the software development lifecyc
 
 
 ![image](https://github.com/user-attachments/assets/af3b4552-b73e-43a9-b229-c21aa7780b35)
+</p>
